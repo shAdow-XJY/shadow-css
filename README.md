@@ -3,5 +3,8 @@
 2. 之后会尝试将css-base 的样式添加进 vue.js工程实现组件化
 3. 
 
+## link
+1. css-base web 访问链接 ： [css-base index](https://shadowplusing.website/shadow-css/)
+
 ### some
 1. docs目录为GitHub pages部署用，没什么相关关系
